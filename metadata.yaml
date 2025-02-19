@@ -1,0 +1,36 @@
+_repo: Garibaldi-Vol-2-of-2-b-1860-1882_75139
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guerzoni, Giuseppe
+    birthdate: 1835
+    deathdate: 1886
+    gutenberg_agent_id: '57846'
+    url: http://www.gutenberg.org/2009/agents/57846
+    wikipedia: https://it.wikipedia.org/wiki/Giuseppe_Guerzoni
+description: ''
+gutenberg_issued: '2025-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75139'
+language: it
+pgterms:marc904: https://archive.org/details/garibaldi02guer
+pgterms:marc905: 20231201085719guerzoni
+pgterms:marc906: '1889'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aFirenze :$bBarbera, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+- !lcsh 'Statesmen -- Italy -- Biography'
+- !lcsh 'Italy -- History -- 1849-1870'
+- !lcsh 'Revolutionaries -- Italy -- Biography'
+- !lcsh 'Generals -- Italy -- Biography'
+- !lcc 'DG'
+- GITenberg
+title: 'Garibaldi,  Vol. 2 (of 2) : $b (1860-1882)'
+url: http://www.gutenberg.org/ebooks/75139
