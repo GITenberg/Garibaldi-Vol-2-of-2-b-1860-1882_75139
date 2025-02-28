@@ -1,5 +1,8 @@
 _repo: Garibaldi-Vol-2-of-2-b-1860-1882_75139
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75139-h/images/cover.jpg
 creator:
   author:
     agent_name: Guerzoni, Giuseppe
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57846
     wikipedia: https://it.wikipedia.org/wiki/Giuseppe_Guerzoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75139#Garibaldi-Vol-2-of-2-b-1860-1882
 gutenberg_issued: '2025-01-18'
 gutenberg_type: Text
 identifiers:
